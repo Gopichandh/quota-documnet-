@@ -62,6 +62,26 @@ There is no definite range as such, App will be unique on requirements. It has t
 
 
 
+Most common eroors and warnings:
+
+While creating a name space there will be a limit and request for the quotas in it, for example the below screen shot with name space- abhutad-test where the quota size is small with 
+CPU Request as 10 Core
+Memory Request as 32GB
+CPU Limit as 10 Core
+
+*Screen Shot**
+If the project memory or CPU request exceeds there will be a warning messaage as shown below in the screenshot.
+
+**Screen Shot***
+
+Following are some of teh error messages that will pop up.
+
+**** Screen SHot****
+
+http://v1.uncontained.io/playbooks/troubleshooting/troubleshooting_guide.html#application-pod-fails-to-deploy
+
+
+
 
 
 
